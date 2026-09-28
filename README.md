@@ -123,4 +123,37 @@ The main objectives of the project were to:
 - Protect child and parent information
 - Provide a clear and accessible user experience
 
-
+## What I Learned
+ 
+Through this project, I gained practical experience with:
+ 
+- Full-stack web development
+- React application development
+- REST API design
+- Backend development with Node.js and Express
+- Database integration
+- Authentication and authorization
+- Role-based access control
+- Component-based frontend architecture
+- API integration
+- Managing application state
+- Designing interfaces for different user roles
+- Team-based software development
+ 
+## Academic Context
+ 
+This project was developed for the **CS412 Web Application Development** course at the **International University of Sarajevo**.
+ 
+The project demonstrates the development of a multi-role web platform from frontend user interfaces to backend APIs, database operations, authentication, and authorization.
+ 
+## Contributors
+ 
+This was a collaborative university project developed by:
+ 
+- Hena Šehović
+- Berina Juković
+- Berin Žunić
+ 
+## License
+ 
+This project was developed for educational and portfolio purposes.
