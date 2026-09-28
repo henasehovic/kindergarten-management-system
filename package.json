@@ -1,0 +1,40 @@
+{
+  "name": "web_proj",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "React + Vite frontend with Express API (migrated from Next.js).",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "prisma:generate": "prisma generate",
+    "prisma:push": "prisma db push",
+    "prisma:seed": "prisma db seed",
+    "prisma:migrate": "prisma migrate dev --name update-worker-features",
+    "seed:demo": "node prisma/seedDemoData.js",
+    "server": "node server.js",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^6.19.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^4.19.2",
+    "prisma": "^6.19.1",
+    "react": "^19.2.3",
+    "react-dom": "^19.2.3",
+    "react-router-dom": "^6.29.0"
+  },
+  "devDependencies": {
+    "@types/node": "^25.0.3",
+    "@vitejs/plugin-react": "^4.3.0",
+    "autoprefixer": "^10.4.22",
+    "lightningcss": "^1.30.2",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^3.4.19",
+    "vite": "^5.2.0"
+  }
+}
