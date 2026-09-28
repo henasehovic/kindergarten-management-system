@@ -4,7 +4,7 @@ A full-stack web application designed to centralize kindergarten operations, com
 
 The platform provides dedicated experiences for visitors, parents, workers, and administrators, with role-based permissions controlling the information and functionality available to each user.
 
-> Developed as a university project for the Web Application Development (CS412) course.
+
 
 ## Features
 
